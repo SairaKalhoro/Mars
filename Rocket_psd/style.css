@@ -1,0 +1,388 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none !important;
+    list-style-type: none;
+    border: none;
+    background: none;
+}
+.text_pro h5,.text_pro h6,.text_pro p
+{
+    font-size: 114px;
+    font-family: Roboto;
+    color: #ffffff;
+    font-weight: bold;
+}
+.text_pro h6
+{
+    font-size: 25px;
+    font-weight: normal;
+    margin: 35px 0;
+}
+.text_pro h6 span
+{
+    padding: 0 0 20px 0;
+    border-bottom: 2px solid #ffffff;
+}
+.text_pro p
+{
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0 0 85px 0;
+}
+.text_pro a{
+    
+    margin: 0 1% 30px 1%;
+    background: none;
+    border-radius: 40px;
+    width: 270px;
+    border: solid 2px #fff;
+    font-size: 24px;
+    font-family: Roboto;
+    color: #fff;
+    padding: 22px 45px;
+    display: inline-block;
+    transition: linear 0.5s all
+   
+       
+    
+}
+.text_pro a:hover{
+    background-color: #fff;
+    color: #010000;
+}
+.row-1
+{
+    padding: 0;
+}
+.row-2
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.navbar-nav{
+    width: 100%;
+}
+.row-2 .nav-item
+{
+    margin: 0 1%;
+}
+.row-2 .nav-link
+{
+    font-size: 21px;
+    font-family: Roboto;
+    color: #fff;
+    padding: 6px 0 0 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link:nth-child(5n+1){
+padding-left: 11px;
+
+}
+.row-2 .dropdown-toggle::before
+{
+    display: inline-block;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+}
+.row-2 .dropdown-toggle::after
+{
+    display: none;
+}
+.social_links{
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+.social_links .fa-brands{
+   color: #f1943a;
+   margin: 0 0 0 1px;
+}
+
+.row-3-col-1 img
+{
+    width: 100%;
+    
+}
+.row-3
+{
+    
+    margin: 35px 0 0 0;
+}
+
+.row-3-col-2
+{
+    margin: 125px 0 0 0;
+}
+.row-3-col-2 h3
+{
+    font-size: 21px;
+    font-family: Roboto;
+    color: #ff6012;
+}
+.row-3-col-2 h2
+{
+    font-size: 40px;
+    font-family: Roboto;
+    color: #4b4b4b;
+}
+.row-3-col-2 p
+{
+    font-size: 18px;
+    font-family: Roboto;
+    color: #4b4b4b;
+}
+.row-3-col-2 a
+{
+    font-size: 24px;
+    font-family: Roboto;
+    color: #ffffff;
+    /* text-decoration: none; */
+    background: #ff6012;
+    padding: 20px 50px;
+    border-radius: 35px;
+    margin: 60px 0 0 0;
+    float: left;
+}
+.row4{
+    padding: 60px 0 50px 0;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.row4 h4{
+    color: #ff6012;
+    font-size: 21px;
+    font-family: Roboto
+    
+}
+.row4 h3{
+    margin: 15px 0 0 0;
+    color: #4b4b4b;
+    font-size: 40px;
+    font-family: Roboto
+    
+    
+}
+.row4 p{
+    margin: 35px 0 20px 0;
+    color: #4b4b4b;
+    font-size: 18px;
+    font-family: Roboto
+    
+}
+.row4_content{
+   
+    text-align: center;
+}
+.row4_content h5{
+    display: inline-block;
+    margin: 10px 0 0 0;
+    color: #000000;
+    font-size: 24px;
+    font-family: Roboto
+}
+.row4_content p{
+    display: inline-block;
+    margin: 10px 0 0 0;
+    color: #000000;
+    font-size: 18px;
+    font-family: Roboto
+}
+.row4 ul{
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+.row4 ul li{
+    float: left;
+    padding: 0 0.5%;
+ 
+    
+
+
+}
+
+.circle{
+    background-color: #fff;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    
+    display: inline-block;
+}
+.circle img{
+    margin: 37px 0 0 0;
+}
+.row4 h5{
+    margin: 15px 0 0 0;
+    color: #000000;
+    font-size: 24px;
+    font-family: Roboto
+}
+.row5{
+
+    background: url("images/footer.jpg") no-repeat ;
+    background-size: cover;
+}
+
+
+.row5 h3{
+    padding:55px 0 55px 0;
+    display: inline-block;
+    color: #fff;
+    font-size: 46px;
+    font-family: Roboto
+    
+
+}
+.row5_col{
+    margin: 70px 60px 0 0;
+}
+.row5 a{
+    background: none;
+    border: solid 3px #fff;
+    padding: 25px 60px;
+    display: inline-block;
+    border-radius: 45px;
+    color: #fff;
+    font-size: 24px;
+    font-family: Roboto
+}
+.row6{
+    padding: 50px 0 0 0;
+    background-color: #f5f5f5;
+}
+
+.row6 h3{
+    
+    color: #ff6012;
+    font-size: 22px;
+    font-family: Roboto
+}
+.row6 h4{
+    color: #4b4b4b;
+    font-size: 40px;
+    font-family: Roboto
+}
+.row6 p{
+    margin: 25px 0 0 0;
+    color: #4b4b4b;
+    font-size: 18px;
+    font-family: Roboto
+}
+.row6 h5{
+    margin: 40px 0 0 0;
+    display: inline-block;
+    color: #4b4b4b;
+    font-size: 18px;
+    font-family: Roboto;
+}
+.row6 h6{
+    margin: 40px 0 0 0;
+    float: right;
+    color: #010000;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+.bar{
+    width: 100%;
+    height: 15px;
+    
+    background-color: #d8d8d8;
+    margin: 10px 0 10px 0;
+    border-radius: 15px;
+    transition: linear 1s all;
+    
+}
+.bar:first-child(){
+    width: 100%;
+}
+
+.bar:hover .bar1{
+    
+    width: 95%;
+   
+    
+}
+.bar:hover .bar2{
+    
+    width: 91%;   
+}
+.bar:hover .bar3{
+    
+    width: 98%;
+   
+    
+}
+.bar1{
+    width: 0;
+    height: 15px;
+    margin: 15px 0 0 0;
+    background-color: #ff6012;
+    border-radius: 15px;
+    transition: linear 1s all;
+    
+    
+}
+
+.s_icons{
+    margin: 40px 0 0 0;
+}
+.s_icons ul{
+    padding: 0;
+    margin: 0;
+
+}
+.s_icons ul li{
+    display: inline-block;
+    margin: 0 2%;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #000000;
+}
+.s_icons ul li a{
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    padding: 8px 11px 7px 14px;
+}
+.row-4
+{
+    padding: 130px 0 130px 0;
+    background-color: #f6f6f6;
+    text-align: center;
+}
+.row-4 h3{
+    color: #4b4b4b;
+    font-size: 46px;
+    margin: 0 0 50px 0;
+    font-family: Roboto;
+}
+.row-4 ul li
+{
+    display: inline-block;
+    margin: 0 2%;
+}
+.row-4 .carousel-control-next-icon
+{
+    background: url(images/arrow-next.png) no-repeat center;
+    border: 2px solid #dacbfc;
+    border-radius: 100%;
+}
+.row-4 .carousel-control-prev-icon{
+    background: url(images/arrow-prev.png) no-repeat center;
+    border: 2px solid #dacbfc;
+    border-radius: 100%;
+}
